@@ -1,0 +1,51 @@
+#VRML V2.0 utf8
+
+#Created by CINEMA 4D
+
+DEF HyperNURBS Transform {
+translation 0.000523 0.041062 0.001494
+children [ 
+Shape {
+appearance DEF MAT_Mat Appearance {
+material Material {
+specularColor 0.1 0 0
+}
+}
+geometry DEF FACESET_HyperNURBS IndexedFaceSet {
+ccw FALSE
+solid FALSE
+creaseAngle 1.396263
+coord Coordinate {
+
+}
+texCoord TextureCoordinate {
+
+}
+}
+}
+]
+}
+
+
+
+DEF HyperNURBS_1 Transform {
+translation -0.000449 0.041033 0.001393
+children [ 
+Shape {
+appearance DEF MAT_Mat2 Appearance {
+material Material {
+specularColor 1 1 1
+diffuseColor  0 0 0
+transparency 0.5
+}
+}
+geometry DEF FACESET_HyperNURBS_1 IndexedFaceSet {
+ccw FALSE
+solid FALSE
+creaseAngle 1.396263
+coord Coordinate {
+
+}
+}
+]
+}

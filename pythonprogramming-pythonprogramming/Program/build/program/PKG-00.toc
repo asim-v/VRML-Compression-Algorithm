@@ -1,0 +1,48 @@
+('C:\\Users\\personal\\Desktop\\helio - '
+ 'Copy\\pythonprogramming-pythonprogramming\\Program\\build\\program\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'C:\\Users\\personal\\Desktop\\helio - '
+   'Copy\\pythonprogramming-pythonprogramming\\Program\\build\\program\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\personal\\Desktop\\helio - '
+   'Copy\\pythonprogramming-pythonprogramming\\Program\\build\\program\\localpycos\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'C:\\Users\\personal\\Desktop\\helio - '
+   'Copy\\pythonprogramming-pythonprogramming\\Program\\build\\program\\localpycos\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'C:\\Users\\personal\\Desktop\\helio - '
+   'Copy\\pythonprogramming-pythonprogramming\\Program\\build\\program\\localpycos\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'C:\\Users\\personal\\Desktop\\helio - '
+   'Copy\\pythonprogramming-pythonprogramming\\Program\\build\\program\\localpycos\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_qt5',
+   'c:\\program files '
+   '(x86)\\python37-32\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_qt5.py',
+   'PYSOURCE'),
+  ('program',
+   'C:\\Users\\personal\\Desktop\\helio - '
+   'Copy\\pythonprogramming-pythonprogramming\\Program\\program.py',
+   'PYSOURCE'),
+  ('program.exe.manifest',
+   'C:\\Users\\personal\\Desktop\\helio - '
+   'Copy\\pythonprogramming-pythonprogramming\\Program\\build\\program\\program.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False)
